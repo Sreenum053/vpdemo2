@@ -4,8 +4,8 @@
 		"annotations": [],
 		"type": "AzureBlobStorage",
 		"typeProperties": {
-			"serviceEndpoint": "https://storagedemosreeni.blob.core.windows.net/",
-			"accountKind": "BlobStorage"
+			"containerUri": "https://storagedemosreeni.blob.core.windows.net/adfdemo",
+			"authenticationType": "Anonymous"
 		}
 	}
 }
