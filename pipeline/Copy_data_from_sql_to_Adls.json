@@ -1,5 +1,5 @@
 {
-	"name": "pipeline1",
+	"name": "Copy_data_from_sql_to_Adls",
 	"properties": {
 		"activities": [
 			{
