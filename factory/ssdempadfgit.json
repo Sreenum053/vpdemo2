@@ -1,0 +1,9 @@
+{
+	"name": "ssdempadfgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65e299cd-2075-4fdc-baa8-546d4db50636",
+		"tenantId": "dc35ccb2-141f-4615-8f6c-4782df455b01"
+	}
+}
